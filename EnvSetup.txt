@@ -1,0 +1,11 @@
+Name the two main types of python environment and what they do.
+Which command is used to install python.
+How to use pipenv to install dep...
+How to see the location of my virtual environment
+What is the meaning of the word dev dependecies
+What does this command do pipenv --version ..
+  pipenv --rm
+  pipenv install ... --dev
+  pipenv --venv
+  pipenv shell
+  
